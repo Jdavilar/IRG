@@ -1,0 +1,20 @@
+.contenedor-tarjetas-producto{
+    display: flex;
+    flex-wrap: wrap;
+    width:930px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.contenedor-mujer-termo__img{
+    background-attachment: fixed;
+    height: 70vh;
+    background-image: url('../assets/img/mujer_termo_2048_900_small.jpeg');
+}
+
+
+.tarjetas-planes-destacados__slider {
+    justify-content: center;
+}
+
+
