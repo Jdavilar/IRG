@@ -43,8 +43,8 @@ header{
     background: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
 }
 header img{
-    width: 150px;
-    height: 54px;
+    width: 166px;
+    height: 41px;
     margin-top: 60px;
     /* Colocamos el logo en el centro 
     a un elemento que tiene una propiedad displey flex lo centramos con align self*/
