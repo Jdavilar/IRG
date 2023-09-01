@@ -133,7 +133,7 @@ main{
     height: 320px;
     margin: 0 auto;
     margin-bottom: 50px;
-    background-image: url('./assets/img/IRG_FONDO_PILOTO.jpg');
+    background-image: url('./assets/img/logo_IRG 320px_320px .png');
     /* Aseguremos que la imagen quede en el centro y se tenga visibiliad de la misma */
     background-size: cover;
     background-position: center;
