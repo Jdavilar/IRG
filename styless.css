@@ -174,12 +174,12 @@ main{
 
 
 .main-listado__tabla20oz{
-    width: 77%;
-    min-width: 235px;
-    max-width: 500px;
-    height: 360px;
-    margin: 0 auto;
-    font-family: "Inter", sans-serif;
+    width: 90%;         /* La tabla ocupara un maximo de la pantalla de */
+    min-width: 235px;   /* La tabla tendra podra decrecer hasta */
+    max-width: 900px;   /* La tabla tendra podra crecer hasta  */
+    height: 360px;      /* La tabla tendra esta altura   */
+    margin: 0 auto;     /* 0 auto--> es no agregar margen de arriba abajo y centro izquierda derecha   */
+    font-family: "Inter", sans-serif;  /* Funte definida en el header */
 }
 
 .main-listado__tabla20oz .tabla20oz__titulo{
@@ -191,9 +191,9 @@ main{
 }
 
 .tabla20oz__contenedor{
-    width: 90%;
-    min-width: 230px;
-    max-width: 300px;
+    width: 90%;      /* La tabla */
+    min-width: 230px; /* La tabla  */
+    max-width: 300px; /* La tabla */
     height: 250px;
     margin: 0 auto;
 
