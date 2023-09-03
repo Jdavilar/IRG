@@ -191,16 +191,16 @@ main{
 }
 
 .tabla20oz__contenedor{
-    width: 90%;      /* La tabla */
-    min-width: 230px; /* La tabla  */
-    max-width: 850px; /* La tabla */
-    height: 250px;
+    width: 90%;      /* contenedor de la tabla ocupara un maximo de la pantalla de */
+    min-width: 230px;  /* contenedor de la tabla tendra podra decrecer hasta */
+    max-width: 850px; /* contenedor de la tabla tendra podra crecer hasta  */
+    height: 250px;    /* contenedor de la tabla tendra esta altura   */
     margin: 0 auto;
 
 }
 .tabla20oz__contenedor table{
-    width: 100%;
-    height: 100%
+    width: 100%;   /* la tabla puede usar el 100 de su contenedor */
+    height: 100%   /* la tabla puede usar el 100 de su contenedor */
 }
 .tabla20oz__contenedor td{
     width: 33%;
@@ -211,10 +211,10 @@ main{
     background-color: var(--blanco);
 }
 .tabla20oz__contenedor  .tabla20oz__izq {
-    border-radius: 15px 0 0 0;
+    border-radius: 15px 0 0 0;  /* borde izquierdo superior */
 }
 .tabla20oz__contenedor  .tabla20oz__dr{
-    border-radius: 0 15px 0 0;
+    border-radius: 0 15px 0 0;   /* borde derecho superior */
 } 
 .tabla20oz__contenedor  .tabla_20oz_abajo_iz{
     border-radius: 0 0 0 15px;
