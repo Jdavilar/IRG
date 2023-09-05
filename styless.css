@@ -513,6 +513,15 @@ footer section{
     justify-content: center;
     align-items: center;
 } 
+
+.icon-container {
+  display: inline-block;
+}
+
+.social-icon {
+  max-width: 16px;
+}
+
 footer .whatsapp{
    position:fixed;
    bottom:40px;
