@@ -38,7 +38,7 @@ header{
     width: 100%;
     /* Dimension más pequeña en un celular */
     min-width: 320px;
-    height: 334px;
+    height: 224px;
     text-align: center;
     background: linear-gradient(207.8deg, #201E1C 16.69%, #F7931A 100%);
 }
