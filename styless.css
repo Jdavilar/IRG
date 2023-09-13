@@ -82,7 +82,7 @@ header img{
     position: absolute;
     /* regla de css para calcular  */
     /*   calcula el 50% centro de la pantalla y le resta 150px que son del tamaño del boton*/
-    left: calc(50% - 150px);
+    left: 0;
    /* Colocamos el boton y definimos su tamaño */
     top: 108px;
     display: block;
