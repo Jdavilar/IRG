@@ -47,8 +47,12 @@ header img{
     height: 41px;
     margin-top: 60px;
     /* Colocamos el logo en el centro 
-    a un elemento que tiene una propiedad displey flex lo centramos con align self*/
-    align-self: center;
+    a un elemento que tiene una propiedad displey flex lo centramos con align self
+    align-self: center; */
+    
+    /* el logo se alineará al inicio del eje cruzado del contenedor flex, que en este caso sería el borde izquierdo. */
+   
+    align-self: flex-start;
     box-shadow: 0px 4px 8px rgba(89,73,30,0.80);
 }
 
